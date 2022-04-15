@@ -1,0 +1,68 @@
+.karsilama {
+    color: rgb(94, 22, 153);
+    font-size: 60px;
+
+    margin-left:360px;
+    margin-top: 200px;
+    width:90%;
+    cursor: default;
+}
+
+.firstlist li{
+    display: inline;
+    margin: 20px;
+    margin-left: 260px;
+    cursor:pointer;
+    background-color: rgb(255, 255, 255);
+    background-size: 55px;
+    border: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.firstlist li:hover{
+    display: inline;
+    margin: 20px;
+    margin-left: 265px;
+    cursor:pointer;
+    background-color: rgb(255, 251, 2);
+    background-size: cover;
+    font-size: 25px;
+}
+
+#urunleregidis{
+    cursor:pointer;
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    border: 50px;
+    border-radius: 10px;
+}
+
+a:link { color:#000;text-decoration:none}
+
+/******  Contact ******/
+
+#iletisim{
+    color: rgb(94, 22, 153);
+    font-size: 30px;
+    margin-left: 210px;
+    margin-top: 100px;
+}
+
+
+body{
+    background-image: url(https://www.cumhuriyet.com.tr/Archive/2022/2/9/1906457/kapak_122641.jpg);
+    background-size: cover;
+}
+
+.yazi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.fiyat{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: aliceblue;
+}
