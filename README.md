@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitimi kapsamındaki CSS Eğiti
 
 **Proje kapsamı şu şekildedir;**
 
-Sıfırdan bir HTML sayfası oluşturuldu ve bu sayfanın içindeki tüm detayları kişisel yaratıcılığa göre tasarlandı.
+Sıfırdan bir HTML sayfası oluşturuldu ve bu sayfanın içindeki tüm detaylar kişisel yaratıcılığa göre tasarlandı.
 
 Bir müzik mağazasının sayfası oluşturuldu, anasayfa, iletişim ve hakkımızda bölümlerine sahip.
 
